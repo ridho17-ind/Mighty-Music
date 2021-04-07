@@ -15,11 +15,11 @@ TELEGRAM_TOKEN=${BOT_API_KEY}
 export BOT_API_KEY TELEGRAM_TOKEN
 tg_sendinfo "<code>I am gonna merge staging into Linux-Userbot</code>"
 cd
-git clone https://github.com/sahyam2019/oub-remix.git
-cd oub-remix
-git remote set-url origin https://${GH_USERNAME}:${GH_PERSONAL_TOKEN}@github.com/sahyam2019/oub-remix.git
+git clone https://github.com/mkaraniya/OpenUserBot.git
+cd OpenUserBot
+git remote set-url origin https://${GH_USERNAME}:${GH_PERSONAL_TOKEN}@github.com/mkaraniya/OpenUserBot.git
 git fetch
 git checkout staging
 git pull origin staging
-git push --force origin staging:sql-extended
+git push --force origin staging:Lord-Userbot
 tg_sendinfo "<code>I have merged all commits from staging into Linux-Userbot</code>"
