@@ -1,5 +1,5 @@
 # MIGHTY MUSIC
-<h2 align="centre">Music Play Bot 🎵</h2>
+<a href="https://cooltext.com"><img src="https://telegra.ph/file/dfb09ff513d1bad341439.mp4" width="473" height="82" alt="MIGHTY MUSIC" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/2fd31137412841a586abc.jpg">
@@ -19,7 +19,7 @@
 - `/song <judul lagu>` - unduh lagu yang Anda inginkan dengan cepat, contoh: /song friendzone
 - `/search <judul video>` - cari video di youtube dengan detail
 
-#### Admins only
+#### Command Khusus Admin
 - `/pause` - jeda pemutaran lagu
 - `/resume` - melanjutkan pemutaran lagu
 - `/skip` - putar lagu berikutnya
