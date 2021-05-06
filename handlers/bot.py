@@ -8,7 +8,6 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAEJX5NgelpPxIp7TxBi31AWY0e6awyNoAACrwIAAiZaqFetusa6iC_gHx8E")
-    await message.reply_sticker("CAACAgUAAxkBAAEJhiRghU-HBoDo2l62Hsreb8jG3YAHzwACZAIAAgZVKFSjwwmhSBUWsh8E")
     await message.reply_text(
         f"""**┗┓| MIGHTY BOT MUSIK |┏┛**
 
@@ -47,7 +46,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💠 Group 💠", url="https://t.me/KingUserbotSupport")
+                        "💭 Group Support", url="https://t.me/KingUserbotSupport")
                 ]
             ]
         )
