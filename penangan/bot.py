@@ -9,15 +9,15 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAEJX5NgelpPxIp7TxBi31AWY0e6awyNoAACrwIAAiZaqFetusa6iC_gHx8E")
     await message.reply_text(
-        f"""**┗┓| MIGHTY BOT MUSIK |┏┛**
+        f"""**┗┓| 👑SKYZO BOT MUSIK👑 |┏┛**
 
 **Hallo kamu 🙋‍♂**
-Nama saya adalah __[Mighty Music Asssistant Bot](https://t.me/mightymusic_bot)__
+Nama saya adalah __[Skyzo Music Bot](https://t.me/Skyzo_Music_Bot)__
 Saya bisa memutar musik di Voice Call Grup kamu
 ━━━━━━━━━━━━━━━━━━━━
-Dikelola oleh **[Yunus Zend](https://t.me/ZendYNS)** 👨‍💻
+Dikelola oleh **[Skyzo](https://t.me/SkyzoGanss)** 👨‍💻
 
-❖ **Tambahkan __[Mighty Music Assistant](https://t.me/mightymusic_assistant)__ **dan** __[Mighty Music Bot](https://t.me/mightymusic_bot)__ __ke grup Anda, dan rasakan sensasi mendengar musik di VC Group anda!!**__
+❖ **Tambahkan __[Skyzo Music Assistant](https://t.me/SkyzooAsistens)__ **dan** __[Skyzo Music Bot](https://t.me/Skyzo_Music_Bot)__ __ke grup Anda, dan rasakan sensasi mendengar musik di VC Group anda!!**__
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -26,10 +26,10 @@ Dikelola oleh **[Yunus Zend](https://t.me/ZendYNS)** 👨‍💻
                         "🎧 Perintah 🎧", url="https://t.me/infoseputarbot/3")
                   ],[
                     InlineKeyboardButton(
-                        "💭 Grup", url="https://t.me/KingUserbotSupport"
+                        "💭 Grup", url="https://t.me/skyzomusicbot"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Creator 👨‍💻", url="https://t.me/ZendYNS"
+                        "👨‍💻 Creator 👨‍💻", url="https://t.me/SkyzoGanss"
                     ),
                     InlineKeyboardButton(
                         "Channel 🔉", url="https://t.me/infoseputarbot"
@@ -41,12 +41,12 @@ Dikelola oleh **[Yunus Zend](https://t.me/ZendYNS)** 👨‍💻
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**Mighty Bot Music Berhasil Diaktifkan ✅**""",
+      await message.reply_text("""**Skyzo Bot Music Berhasil Diaktifkan ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💭 Group Support", url="https://t.me/KingUserbotSupport")
+                        "💭 Group Support", url="https://t.me/skyzomusicbot")
                 ]
             ]
         )
