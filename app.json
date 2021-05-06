@@ -1,37 +1,37 @@
 {
-  "name": "Music Bot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "Mighty Music",
+  "description": "Deploy bot VC Group kamu untuk memutar lagu di Obrolan Suara Grup Telegram Anda. Didukung oleh PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/yunuszenduserbot/GroupMusicBot",
+  "repository": "https://github.com/Yunus-ZEND/Mighty-Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Session string dalam bentuk Pyogram",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "Ambil Bot Token Mu dari @botfather",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "Username Bot yg kamu buat.",
       "required": false,
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "App ID dari my.telegram.org/apps",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "App hash dari my.telegram.org/apps",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "Letakkan ID mu disini sebagai pemilik Bot Musik ini.",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "Batas durasi audio maksimal untuk download (menit).",
       "required": true,
       "value": "10"
     }
