@@ -31,7 +31,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/Mighty-Music)
 
-Use [StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
+### Ambil String Session Kamu Disini
+
+<a href="https://replit.com/@SpEcHiDe/GenerateStringSessionhttps://replit.com/@SpEcHiDe/GenerateStringSession"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 **GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
 
