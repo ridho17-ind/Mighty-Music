@@ -1,6 +1,6 @@
 # MIGHTY MUSIC
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5525856.gif" width="489" height="112" alt="King Ubot" /></a>
+<a href="https://cooltext.com"><img src="https://telegra.ph/file/dfb09ff513d1bad341439.mp4.gif" width="489" height="112" alt="Mighty Music" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/2fd31137412841a586abc.jpg">
