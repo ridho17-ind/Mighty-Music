@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAEJX5NgelpPxIp7TxBi31AWY0e6awyNoAACrwIAAiZaqFetusa6iC_gHx8E")
     await message.reply_sticker("CAACAgUAAxkBAAEJhiRghU-HBoDo2l62Hsreb8jG3YAHzwACZAIAAgZVKFSjwwmhSBUWsh8E")
     await message.reply_text(
-        f"""**┗┓| MIGHTY BOT MUSIK | ┏┛**
+        f"""**┗┓| MIGHTY BOT MUSIK |┏┛**
 
 **Hallo kamu 🙋‍♂**
 Nama saya adalah __[Mighty Music Asssistant Bot](https://t.me/mightymusic_bot)__
@@ -18,7 +18,7 @@ Saya bisa memutar musik di Voice Call Grup kamu
 ━━━━━━━━━━━━━━━━━━━━
 Dikelola oleh **[Yunus Zend](https://t.me/ZendYNS)** 👨‍💻
 
-❖ **Tambahkan __[Mighty Music Assistant](https://t.me/mightymusic_assistant)__ **dan** __[Mighty Music Bot](https://t.me/mightymusic_bot)__ ke grup Anda, dan rasakan sensasi mendengar musik di VC Group anda!!**
+❖ **Tambahkan __[Mighty Music Assistant](https://t.me/mightymusic_assistant)__ **dan** __[Mighty Music Bot](https://t.me/mightymusic_bot)__ __ke grup Anda, dan rasakan sensasi mendengar musik di VC Group anda!!**__
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -47,7 +47,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💠 Group 💠", url="https://t.me/Cari_Teman_Online_Group")
+                        "💠 Group 💠", url="https://t.me/KingUserbotSupport")
                 ]
             ]
         )
