@@ -1,6 +1,10 @@
 # MIGHTY MUSIC
 
 <p align="center">
+  <img src="https://telegra.ph/file/fc999e711dd72a9bdda1e.jpg">
+</p>
+
+<p align="center">
   <img src="https://telegra.ph/file/2fd31137412841a586abc.jpg">
 </p>
 
