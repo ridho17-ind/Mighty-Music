@@ -35,7 +35,7 @@
 
 ### Ambil String Session Kamu Disini
 
-<a href="https://replit.com/@SpEcHiDe/GenerateStringSessionhttps://replit.com/@SpEcHiDe/GenerateStringSession"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+[![GenerateString](https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 **GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
 
