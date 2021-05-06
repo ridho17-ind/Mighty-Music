@@ -13,7 +13,7 @@
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-#### Command yg bis digunakan anggota grup tanpa terkecuali 
+#### Command yg bisa digunakan anggota grup tanpa terkecuali 
 - `/play` - balas url youtube atau file lagu untuk memutar lagu
 - `/ytp <judul lagu>` - memutar lagu tanpa url youtube atau file lagu (metode terbaik) contoh: /ytp friendzone
 - `/song <judul lagu>` - unduh lagu yang Anda inginkan dengan cepat, contoh: /song friendzone
@@ -39,4 +39,4 @@
 
 **GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
 
-**CREATOR [YUNUS ZEND](https://t.me/ZendYNS)**
+**CREATOR ☞ [YUNUS ZEND](https://t.me/ZendYNS)**
