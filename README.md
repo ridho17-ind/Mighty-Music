@@ -39,3 +39,4 @@
 
 **CREATOR [YUNUS ZEND](https://t.me/ZendYNS)**
 
+<a href="https://t.me/ZendYNS"><img src="https://telegra.ph/file/57ce183f5f2e735bfab26.jpg?color=important&label=Zend YNS&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
