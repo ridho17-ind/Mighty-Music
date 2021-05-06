@@ -1,5 +1,6 @@
 # MIGHTY MUSIC
-<a href="https://cooltext.com"><img src="https://telegra.ph/file/dfb09ff513d1bad341439.mp4" width="473" height="82" alt="MIGHTY MUSIC" /></a>
+
+<a href="https://cooltext.com"><img src="https://telegra.ph/file/dfb09ff513d1bad341439.mp4" width="450" height="72" alt="MIGHTY MUSIC" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/2fd31137412841a586abc.jpg">
