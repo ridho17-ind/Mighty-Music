@@ -29,6 +29,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/Mighty-Music)
 
 Use [StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
-GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)
+
+**GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
 
 
