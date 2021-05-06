@@ -37,4 +37,4 @@
 
 **GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
 
-**CREATOR __[YUNUS ZEND](https://t.me/ZendYNS)**__
+**CREATOR [YUNUS ZEND](https://t.me/ZendYNS)**
