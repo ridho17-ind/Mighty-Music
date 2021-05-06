@@ -31,5 +31,5 @@
 Use [StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
 **GRUP SUPPORT? [HERE](https://t.me/KingUserbotSupport)**
-
+**CREATOR [YUNUS ZEND](https://t.me/ZendYNS)
 
