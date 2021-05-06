@@ -1,6 +1,6 @@
 # MIGHTY MUSIC
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5519347.gif" width="432" height="91" alt="GBX Userbot" /></a>
+<a href="https://cooltext.com"><img src="https://telegra.ph/file/dfb09ff513d1bad341439.mp4" width="432" height="91" alt="GBX Userbot" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/2fd31137412841a586abc.jpg">
