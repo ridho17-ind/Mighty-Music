@@ -11,8 +11,7 @@
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### Beberapa Command Untuk Menjalankan Bot dan Assisten Music 🛠
-#### bisa digunakan oleh anggota grup tanpa terkecuali 
+#### Command yg bis digunakan anggota grup tanpa terkecuali 
 - `/play` - balas url youtube atau file lagu untuk memutar lagu
 - `/ytp <judul lagu>` - memutar lagu tanpa url youtube atau file lagu (metode terbaik) contoh: /ytp friendzone
 - `/song <judul lagu>` - unduh lagu yang Anda inginkan dengan cepat, contoh: /song friendzone
@@ -23,6 +22,10 @@
 - `/resume` - melanjutkan pemutaran lagu
 - `/skip` - putar lagu berikutnya
 - `/end` - menghentikan pemutaran musik di VC Group
+
+<p align="center">
+  <img src="https://telegra.ph/file/57ce183f5f2e735bfab26.jpg">
+</p>
 
 ### Deploy Ke Heroku</h4>
 
